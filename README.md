@@ -426,8 +426,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **JISHU**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@jishuchanda-cpu](https://github.com/jishuchanda-cpu)
 
 ---
 
@@ -444,7 +443,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Total Files:** 100+
 - **Lines of Code:** 10,000+
-- **Development Time:** 40+ hours
+- **Development Time:** 6+ hours
 - **Features:** 20+
 - **Database Tables:** 15+
 
@@ -463,16 +462,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Product variants (size, color)
 - [ ] Inventory alerts
 - [ ] Analytics dashboard
-
----
-
-## 📞 Support
-
-Need help? Reach out:
-
-- **Documentation:** [Wiki](https://github.com/yourusername/laravel-ecommerce-shop/wiki)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/laravel-ecommerce-shop/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/laravel-ecommerce-shop/discussions)
 
 ---
 
