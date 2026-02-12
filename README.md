@@ -94,7 +94,7 @@
 
 ## 🚀 Demo
 
-<p align="center">
+<p align="left">
   <a href="https://myaisorte.wuaze.com/" target="_blank">
     🌐 Click Here to View Live Application
   </a>
