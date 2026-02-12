@@ -104,6 +104,20 @@ MyAISorte is an intelligent AI-powered platform that streamlines modern E-commer
 
 ---
 
+## 👤 Default Credentials
+
+### Admin Account
+- **Email:** admin@admin.com
+- **Password:** password
+
+### Test Customer
+- **Email:** test@example.com
+- **Password:** password
+
+> ⚠️ **Important:** Change these credentials in production!
+
+---
+
 ## 🔧 Installation
 
 ### 1. Clone the Repository
