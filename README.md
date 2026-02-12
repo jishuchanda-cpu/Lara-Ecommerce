@@ -18,11 +18,6 @@
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
   </a>
 </p>
-<p align="center">
-  <a href="https://myaisorte.wuaze.com/" target="_blank">
-    🌐 Click Here to View Live Application
-  </a>
-</p>
 
 ---
 
@@ -99,7 +94,11 @@
 
 ## 🚀 Demo
 
-
+<p align="center">
+  <a href="https://myaisorte.wuaze.com/" target="_blank">
+    🌐 Click Here to View Live Application
+  </a>
+</p>
 
 MyAISorte is an intelligent AI-powered platform that streamlines modern E-commerce platform. Built with an agentic-first mindset, it combines Antigravity and OpenCode technologies to deliver efficient and smart coding assistance.
 
