@@ -102,6 +102,7 @@
 
 MyAISorte is an intelligent AI-powered platform that streamlines modern E-commerce platform. Built with an agentic-first mindset, it combines Antigravity and OpenCode technologies to deliver efficient and smart coding assistance.
 
+🌐 Click Here for Live Admin 
 
 ### Admin Account
 - **Email:** admin@admin.com
